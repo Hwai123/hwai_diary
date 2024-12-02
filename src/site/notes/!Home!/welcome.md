@@ -6,5 +6,5 @@
 # 欢迎来到我的日记！
 
 contact me:
-gmail. ahwaihwai@gmail.com
+gmail: ahwaihwai@gmail.com
 wechat: a_hwai

@@ -6,4 +6,4 @@
 # 欢迎来到我的日记！
 
 联络方式 contact me :
-电子邮箱 gmail: ahwaihwai@gmail.com
+邮箱 gmail: ahwaihwai@gmail.com

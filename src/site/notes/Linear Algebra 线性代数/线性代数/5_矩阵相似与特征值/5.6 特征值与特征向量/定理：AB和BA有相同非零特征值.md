@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Linear Algebra 线性代数/线性代数/5_矩阵相似与特征值/5.6 特征值与特征向量/定理：AB和BA有相同非零特征值/","tags":["线代"]}
+{"dg-publish":true,"permalink":"/Linear Algebra 线性代数/线性代数/5_矩阵相似与特征值/5.6 特征值与特征向量/定理：AB和BA有相同非零特征值/","tags":["线代","定理"]}
 ---
 
 1. 证明 $AB$ 和 $BA$ 有相同的非零特征值
